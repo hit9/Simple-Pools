@@ -41,4 +41,4 @@ pool.stop()  # kill all processes in pool
 License
 -------
 
-No license. It can be used in any purpose.
+No license. It can be used for any purpose.
